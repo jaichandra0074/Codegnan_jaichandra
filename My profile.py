@@ -1,0 +1,8 @@
+print("*******************")
+print("MY name is Neduri jaichandra dasaradha ramayya")
+print("I am studying in Gandhi Institute of Technology and management")
+print("*-*-*-*-*-*-*-*-*-*-*-*-*")
+print("My hobbies are listening music, reading books and playing video games")
+print("This is my first file which i will be posting in git")
+print("🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩🤩")
+print("*_*_*_*_*_*_*_*_*_")
