@@ -50,3 +50,21 @@ if x:
 else:
     print("No match")
 
+'''
+time and date
+---------------
+%d ---> day
+%m ---> month
+%y ---> year
+%H ---> hour
+%M ---> min
+%s ---> sec
+%p ---> AM/PM
+%A ---> day name
+%B ---> month name
+
+'''
+
+import datetime
+now = datetime.datetime.now()
+print(now)
