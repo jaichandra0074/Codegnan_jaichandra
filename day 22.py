@@ -68,3 +68,9 @@ time and date
 import datetime
 now = datetime.datetime.now()
 print(now)
+
+import datetime
+today = datetime.date.today()
+print(today.strftime("%d-%m-%Y"))
+print(today.strftime("%A"))
+print(today.strftime("%B"))
